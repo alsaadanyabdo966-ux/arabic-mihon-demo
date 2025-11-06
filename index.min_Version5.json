@@ -1,62 +1,66 @@
-[
-  {
-    "id": "mangalek",
-    "name": "MangaLek",
-    "baseUrl": "https://mangalek.com",
-    "lang": "ar",
-    "version": 1,
-    "nsfw": false,
-    "type": "source",
-    "priority": 1
-  },
-  {
-    "id": "mangaarab",
-    "name": "MangaArab",
-    "baseUrl": "https://mangaarab.com",
-    "lang": "ar",
-    "version": 1,
-    "nsfw": false,
-    "type": "source",
-    "priority": 1
-  },
-  {
-    "id": "mangaonline",
-    "name": "Manga Online",
-    "baseUrl": "https://mangaonline.biz",
-    "lang": "ar",
-    "version": 1,
-    "nsfw": false,
-    "type": "source",
-    "priority": 1
-  },
-  {
-    "id": "arabmanga",
-    "name": "ArabManga",
-    "baseUrl": "https://arabmanga.com",
-    "lang": "ar",
-    "version": 1,
-    "nsfw": false,
-    "type": "source",
-    "priority": 1
-  },
-  {
-    "id": "mangaslayer",
-    "name": "MangaSlayer",
-    "baseUrl": "https://mangaslayer.com",
-    "lang": "ar",
-    "version": 1,
-    "nsfw": false,
-    "type": "source",
-    "priority": 1
-  },
-  {
-    "id": "olympustaff",
-    "name": "OlympusStaff",
-    "baseUrl": "https://olympustaff.com",
-    "lang": "ar",
-    "version": 1,
-    "nsfw": false,
-    "type": "source",
-    "priority": 1
-  }
-]
+{
+  "name": "Arabic Mihon Demo",
+  "version": 1,
+  "sources": [
+    {
+      "id": "mangalek",
+      "name": "MangaLek",
+      "baseUrl": "https://mangalek.com",
+      "lang": "ar",
+      "version": 1,
+      "nsfw": false,
+      "type": "source",
+      "priority": 1
+    },
+    {
+      "id": "mangaarab",
+      "name": "MangaArab",
+      "baseUrl": "https://mangaarab.com",
+      "lang": "ar",
+      "version": 1,
+      "nsfw": false,
+      "type": "source",
+      "priority": 1
+    },
+    {
+      "id": "mangaonline",
+      "name": "Manga Online",
+      "baseUrl": "https://mangaonline.biz",
+      "lang": "ar",
+      "version": 1,
+      "nsfw": false,
+      "type": "source",
+      "priority": 1
+    },
+    {
+      "id": "arabmanga",
+      "name": "ArabManga",
+      "baseUrl": "https://arabmanga.com",
+      "lang": "ar",
+      "version": 1,
+      "nsfw": false,
+      "type": "source",
+      "priority": 1
+    },
+    {
+      "id": "mangaslayer",
+      "name": "MangaSlayer",
+      "baseUrl": "https://mangaslayer.com",
+      "lang": "ar",
+      "version": 1,
+      "nsfw": false,
+      "type": "source",
+      "priority": 1
+    },
+    {
+      "id": "olympustaff",
+      "name": "OlympusStaff",
+      "baseUrl": "https://olympustaff.com",
+      "lang": "ar",
+      "version": 1,
+      "nsfw": false,
+      "type": "source",
+      "priority": 1
+    }
+  ]
+}
